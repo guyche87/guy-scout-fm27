@@ -42,14 +42,14 @@ Keep the console window open while you use the scout; closing it stops it.
 - Named shortlists with FM `.slf` import/export, side-by-side compare (up to 4), CSV/HTML export, column chooser.
 - Snapshots: save the loaded database and reopen it later without FM running.
 - FM27-style interface: the top bar takes your club's colours, like the game.
-- Gender filter (Any / Women / Men) and a W badge for women's football.
+- Gender filter (Men by default / Women / Any) and a W badge for women's football.
 - Copy a player, staff or club name with one click (copy button next to the name).
 
 ## Notes
 
 - **"Players that aren't in my game"**: FM27 databases always include women's football. In a save without
-  women's leagues the women still exist (mostly as free agents) but the game hides them. Set **Gender: Men** to
-  match what the game shows.
+  women's leagues the women still exist (mostly as free agents) but the game hides them. The scout shows men only
+  by default to match; switch **Gender** to Women or Any to see them.
 
 - Read-only: the scout never writes to FM's memory or your save files, and sends nothing anywhere.
 - Known gaps: player weight isn't shown, role ratings still use FM24's role list, and some staff attributes
