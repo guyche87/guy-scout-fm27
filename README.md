@@ -44,6 +44,7 @@ Keep the console window open while you use the scout; closing it stops it.
 - FM27-style interface: the top bar takes your club's colours, like the game.
 - Gender filter (Men by default / Women / Any) and a W badge for women's football.
 - Copy a player, staff or club name with one click (copy button next to the name).
+- Multiple interface languages. Switch with the language button in the top bar or in Settings.
 
 ## Notes
 
